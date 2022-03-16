@@ -6,7 +6,7 @@
 
 #### O objetivo do Projeto é recriar a interface do site Netflix com HTML5, CSS3 e Javascript, facilitando o entendimento da estrutura do layout, estilos com flexbox e uso de javascript para interagir com o usuário.
 
-![Imagem do Site Netflix Clone] (https://github.com/KatarineAlbuquerque/site-netflix-clone/blob/main/site-netflix-clone.png)
+<img src="https://github.com/KatarineAlbuquerque/site-netflix-clone/blob/main/site-netflix-clone.png" alt="Imagem do Site Netflix Clone" />
 
 ## **Tecnologias Utilizadas:**
 
