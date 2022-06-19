@@ -1,5 +1,7 @@
 # Clone do Site Netflix
 
+#### Link do Projeto: <a href="https://katarinealbuquerque.github.io/site-netflix-clone/">Abrir Netflix Clone</a>
+
 ## **Sobre o Projeto:**
 
 #### Trabalho realizado para colocar em prática o estudo adquirido no curso de **HTML5, CSS3 e Javascript** do Projeto Front-End da **Digital Innovation One**.
